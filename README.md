@@ -1,7 +1,1 @@
-✨ Let's make something
-
-Atlas Support Engineer at WP Engine ✨
-
-
-
-Contact: [diego.gallardo@wpengine.com](mailto:diego.gallardo@wpengine.com)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgallardox)](https://github.com/anuraghazra/github-readme-stats)
